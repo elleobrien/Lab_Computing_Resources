@@ -22,4 +22,3 @@ _Principles for building systems that enable collaboration, transparency, and re
 - [Computing models for neuroimaging labs](http://www.russpoldrack.org/2019/12/computing-models-for-neuroimaging-lab.html). Russ Poldrack shares pros and cons of various configurations of computing resources in his lab, including cloud computing, an in-house server ("computer in a closet"), and individual workstations. 
 - [Git/GitHub guide: a minimal tutorial](https://kbroman.org/github_tutorial/) - written by biostatician Karl Broman about getting started with version control. While it's not the only Git tutorial, this introduces information in a way that makes sense for computational researchers. 
 - [Introduction to Cloud Computing for Genomics](https://datacarpentry.org/cloud-genomics/) - from Data Carpentry, a tutorial for researchers (relevant outside genomics) about beginning to use AWS
-- 
