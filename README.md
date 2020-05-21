@@ -13,4 +13,5 @@ _Principles for writing code._
 ## Operations
 _Principles for building systems that enable collaboration, transparency, and reproducibility._
 - [A practical taxonomy of reproducibility for machine learning research](https://openreview.net/pdf?id=B1eYYK5QgX) - although geared for ML studies, this manuscript gives a solid introduction to what is meant by computational reproducibility and why that is usually not accomplished by sharing code alone. 
+-[Computing models for neuroimaging labs](http://www.russpoldrack.org/2019/12/computing-models-for-neuroimaging-lab.html). Russ Poldrack shares pros and cons of various configurations of computing resources in his lab, including cloud computing, self-hosted server, 
 
