@@ -3,8 +3,9 @@
 ## Data management
 _Principles for storing, organizing, and managing datasets._
 - [Data organization: organizing data in spreadsheets](https://kbroman.org/dataorg/)- guides for low-level aspects of building a dataset, including naming variables, formatting dates, dealing with missing data, and common errors. Ideal for labs in which part of the team interacts with data through a spreadsheet editor (such as Excel) while others used scripted analyses.
-- [Data management planning](https://data.research.cornell.edu/content/data-management-planning) - comprehensive resource from Cornell. Covers data types, writing quality meta-data, policies for access, long-term storage and more.
 - [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf) - influential strategy proposed by Hadley Wickham (of RStudio) for structuring datasets to minimize time spent "cleaning".
+- [Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories#healthsci) - Nature Scientific Data's overview of public data repositories, including domain-general and community-specific repositories.
+- [Data management planning](https://data.research.cornell.edu/content/data-management-planning) - comprehensive resource from Cornell. Covers data types, writing quality meta-data, policies for access, long-term storage and more.
 
 
 ## Software development
