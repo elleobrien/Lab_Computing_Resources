@@ -11,6 +11,6 @@ _Principles for writing code._
 
 
 ## Operations
-_The nuts and bolts of building systems that enable collaboration, transparency, and reproducibility
+_Principles for building systems that enable collaboration, transparency, and reproducibility._
 - [A practical taxonomy of reproducibility for machine learning research](https://openreview.net/pdf?id=B1eYYK5QgX) - although geared for ML studies, this manuscript gives a solid introduction to what is meant by computational reproducibility and why that is usually not accomplished by sharing code alone. 
 
